@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rambling on home</title><link>https://julielmcdonald.github.io/categories/rambling/</link><description>Recent content in rambling on home</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://julielmcdonald.github.io/categories/rambling/index.xml" rel="self" type="application/rss+xml"/><item><title>First post!</title><link>https://julielmcdonald.github.io/posts/first-post/</link><pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate><guid>https://julielmcdonald.github.io/posts/first-post/</guid><description>This wet-lab researcher built a website! With the help of some computational friends, of course. I spent a good chunk of my evenings the past few days learning html and markdown syntax, all because I don&amp;rsquo;t want to give my money to Big Server like Squarespace.
-On a bit more serious note, I wanted to make a website because I felt like I didn&amp;rsquo;t know what life was really like as a PhD student until I met some students during my interview weekends at grad schools.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rambling on home</title>
+    <link>https://julielmcdonald.github.io/categories/rambling/</link>
+    <description>Recent content in rambling on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://julielmcdonald.github.io/categories/rambling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post!</title>
+      <link>https://julielmcdonald.github.io/posts/first-post/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://julielmcdonald.github.io/posts/first-post/</guid>
+      <description>This wet-lab researcher built a website! With the help of some computational friends, of course. I spent a good chunk of my evenings the past few days learning html and markdown syntax, all because I don&amp;rsquo;t want to give my money to Big Server like Squarespace.
+On a bit more serious note, I wanted to make a website because I felt like I didn&amp;rsquo;t know what life was really like as a PhD student until I met some students during my interview weekends at grad schools.</description>
+    </item>
+    
+  </channel>
+</rss>
