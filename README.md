@@ -1,3 +1,3 @@
 # julielmcdonald.com
-A personal website built using Hugo Sustain<br/>
-https://themes.gohugo.io/hugo-sustain/
+A personal website built using Hugo Coder<br/>
+https://themes.gohugo.io/hugo-coder/
