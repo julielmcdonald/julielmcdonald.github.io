@@ -20,7 +20,8 @@
     <loc>https://julielmcdonald.github.io/about/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url><url>
-@@ -25,11 +10,12 @@
+    <loc>https://julielmcdonald.github.io/contact/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://julielmcdonald.github.io/cv/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
@@ -30,9 +31,10 @@
   </url><url>
     <loc>https://julielmcdonald.github.io/authors/</loc>
   </url><url>
-    <loc>https://julielmcdonald.github.io/categories/</loc>
-  </url><url>
-    <loc>https://julielmcdonald.github.io/</loc>
-  </url><url>
     <loc>https://julielmcdonald.github.io/publications/</loc>
   </url><url>
+    <loc>https://julielmcdonald.github.io/series/</loc>
+  </url><url>
+    <loc>https://julielmcdonald.github.io/tags/</loc>
+  </url>
+</urlset>
