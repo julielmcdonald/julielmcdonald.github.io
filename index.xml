@@ -5,7 +5,18 @@
     <link>https://julielmcdonald.github.io/</link>
     <description>Recent content on home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://julielmcdonald.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://julielmcdonald.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post!</title>
+      <link>https://julielmcdonald.github.io/posts/first-post/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://julielmcdonald.github.io/posts/first-post/</guid>
+      <description>This wet-lab researcher built a website! With the help of some computational friends, of course. I spent a good chunk of my evenings the past few days learning html and markdown syntax, all because I don&amp;rsquo;t want to give my money to Big Server like Squarespace.
+On a bit more serious note, I wanted to make a website because I felt like I didn&amp;rsquo;t know what life was really like as a PhD student until I met some students during my interview weekends at grad schools.</description>
+    </item>
+    
     <item>
       <title>about</title>
       <link>https://julielmcdonald.github.io/about/</link>
@@ -32,8 +43,18 @@ I&amp;rsquo;m committed to making my science (and hopefully everyone&amp;rsquo;s
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://julielmcdonald.github.io/cv/</guid>
-      <description>Here are some of the places I&amp;rsquo;ve done science. View my full CV here.    Massachusetts Institute of Technology (2020 - Present)    PhD student in the Weng lab at Whitehead Institute and MIT Biology. I&amp;rsquo;m currently working on the structure, function, and evolution of specialized plant enzymes.
-Massachusetts General Hospital (2018-2020)    Research technician in the Chao Lab, for the Department of Molecular Biology.</description>
+      <description>Here are some of the places I&amp;rsquo;ve done science. View my full CV here. Massachusetts Institute of Technology (2020 - Present) PhD student in the biology department. Deciding on a thesis lab soon!
+Massachusetts General Hospital (2018-2020) Research technician in the Chao Lab, for the Department of Molecular Biology.
+I used single particle cryo-electon microscopy to study mitochondrial proteins and helped to get in situ cryo-electron tomography up and running between MIT and MGH.</description>
+    </item>
+    
+    <item>
+      <title>posts</title>
+      <link>https://julielmcdonald.github.io/_posts/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://julielmcdonald.github.io/_posts/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -43,8 +64,9 @@ Massachusetts General Hospital (2018-2020)    Research technician in the Chao La
       
       <guid>https://julielmcdonald.github.io/publications/</guid>
       <description>Google Scholar
-Peer-reviewed publications     Ge, Y., Shi, X., Boopathy, S., McDonald, J., Smith, A. W., &amp;amp; Chao, L. H. (2020). Two forms of Opa1 cooperate to complete fusion of the mitochondrial inner-membrane. Elife, 9, e50973.
-Article | Preprint  Conferences     McDonald, J. L., Ge, Y., Navarro, P. P., &amp;amp; Chao, L. H. (2020). Visualizing Opa1-Mediated Changes to Inner Mitochondrial Membrane Morphology. Biophysical Journal, 118(3), 231a.</description>
+Peer-reviewed publications  Ge, Y., Shi, X., Boopathy, S., McDonald, J., Smith, A. W., &amp;amp; Chao, L. H. (2020). Two forms of Opa1 cooperate to complete fusion of the mitochondrial inner-membrane. Elife, 9, e50973.
+Article | Preprint  Conferences  McDonald, J. L., Ge, Y., Navarro, P. P., &amp;amp; Chao, L. H. (2020). Visualizing Opa1-Mediated Changes to Inner Mitochondrial Membrane Morphology. Biophysical Journal, 118(3), 231a.
+Abstract PDF | Poster  </description>
     </item>
     
   </channel>
